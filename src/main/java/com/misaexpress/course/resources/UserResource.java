@@ -1,4 +1,4 @@
-package com.misaexpress.course.resource;
+package com.misaexpress.course.resources;
 
 import java.net.URI;
 import java.util.List;
